@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93382440327",
+    "project_id": "rishis-locale-connect",
+    "storage_bucket": "rishis-locale-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93382440327:android:9ba4ed7d62f6bf9d0e4f22",
+        "android_client_info": {
+          "package_name": "com.example.rishis_locale_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi3kA9jqUK6DpXR3leA0xT6oPNjsmfjPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
